@@ -1,4 +1,4 @@
-class biggest{
+class Biggest{
   public static void main(String args[]){
     int n1=Integer.parseInt(args[0]);
     int n2=Integer.paeseInt(args[1]);
